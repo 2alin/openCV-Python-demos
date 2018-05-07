@@ -1,7 +1,7 @@
 # Simple Mouse-Drawing
 ## What it does
 It allows you to draw circles and squares in the openCV window area, dragging while mouse left button is pressed. 
-Pressing the 'm' key will togle the shape to draw.
+Pressing the 'm' key will togle the shape to draw. Pressing the 'c' key will clean the canvas.
 
 ## Where it comes from
 The original script corresponds to the advaned demo (bottom of the page) in the *Mouse as a Paint-Brush* section of the 
