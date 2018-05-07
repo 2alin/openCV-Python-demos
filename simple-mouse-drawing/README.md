@@ -4,7 +4,7 @@ It allows you to draw circles and squares in the openCV window area, dragging wh
 Pressing the 'm' key will toggle the shape to draw. Pressing the 'c' key will clean the canvas.
 
 ## Where it comes from
-The original script corresponds to the advaned demo (bottom of the page) in the *Mouse as a Paint-Brush* article of the 
+The original script corresponds to the advanced demo (bottom of the page) in the *Mouse as a Paint-Brush* article of the 
 openCV documentation:
 https://docs.opencv.org/master/db/d5b/tutorial_py_mouse_handling.html
 
