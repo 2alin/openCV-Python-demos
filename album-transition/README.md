@@ -9,7 +9,7 @@ https://docs.opencv.org/master/d0/d86/tutorial_py_image_arithmetics.html
 ## Requirements
 1. To have openCV python library properly installed.
 2. Put all the pictures that you want to transition in a folder called 'pics' in the same parent directory than the script.
-3. There's no dimension requirement for all pictures. But all of them should be the same dimension, otherwise the script won't work.
+3. There's no specific dimension needed for the pictures. But all of them should share the same dimension, otherwise the script won't work.
 
 ## Highlights
 1. The script is able to recognize the pictures with extensions `.png .jpg .jpeg` and ignore all other kind of files.
