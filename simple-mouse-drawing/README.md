@@ -15,8 +15,8 @@ My script removes previous shapes when the cursor is moving, then save the canva
 and when drawing starts again the script draws the saved figure over and over, removing unwanted dragging shapes.
 
 2. Circle radius is now interactive, taking into account the start position (click) as center 
-and the end position (release) as the delimiter of the radious. The original demo only was able to draw fixed size circles.
+and the end position (release) as the delimiter of the radius. The original demo was only able to draw fixed size circles.
 
 3. Added the functionality to clean the canvas through the 'c' key.
 
-4. As suggested in the exercise of the article. I changed the script to draw only the contour instead of filling the whole shape.
+4. As suggested in the exercise of the article, I changed the script to draw only the contour instead of filling the whole shape.
