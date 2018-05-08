@@ -20,5 +20,5 @@ of the transition delay function I used:
 
 ![plot of the transition delay function](https://github.com/2alin/openCV-demos/blob/master/album-transition/assets/delay_plot.png)
 
-## Akcnowledgements
+## Acknowledgements
 The pictures I take as a sample for the script are from  Schalk Neethling's [unsplash album](https://unsplash.com/@schalkneethling).
