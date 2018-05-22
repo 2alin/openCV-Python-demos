@@ -19,4 +19,4 @@ and the objects will appear
 * Press 'n' to reset the simulation.
 * Press 'q' to exit the simulation.
 
-![video showing the demo on action](KNN-classifier/assets/K_nearest2.gif)
+![video showing the demo on action](assets/K_nearest2.gif)
